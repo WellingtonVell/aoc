@@ -9,14 +9,15 @@ This repository contains my solutions to [Advent of Code](https://adventofcode.c
 
 ## Project Structure 
 
-.
+```
 ├── utils/
-│ └── read-input.mjs # Utility functions for reading input files
+│   └── read-input.mjs # Utility functions for reading input files
 ├── [YEAR]/ # Solutions organized by year
-│ ├── [DAY]/ # Solutions for each day
-│ │ ├── solve.mjs # Solution implementation
-│ │ ├── input.txt # Puzzle input
-│ │ └── problem.md # Problem description
+│   ├── [DAY]/ # Solutions for each day
+│   │   ├── solve.mjs # Solution implementation
+│   │   ├── input.txt # Puzzle input
+│   │   └── problem.md # Problem description
+```
 
 ## Running Solutions
 
